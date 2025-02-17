@@ -21,8 +21,9 @@ The **Intermittent Fasting Tracker** is a sleek and user-friendly iOS applicatio
   - Card-based layout for a sleek experience.
   - Supports Dark Mode.
 
-## 📷 Screensh![Simulator Screenshot - iPhone 16 Pro - 2025-02-17 at 06 05 10](https://github.com/user-attachments/assets/74231fdd-e9b0-4e1e-a582-1f16b6fdbf7a)
-ots 
+
+Uploading Simulator Screen Recording - iPhone 16 Pro - 2025-02-17 at 06.06.37.mp4…
+
 
 
 ## 🚀 Installation
