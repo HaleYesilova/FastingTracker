@@ -15,9 +15,8 @@ The **Intermittent Fasting Tracker** is a iOS application designed to help users
   - Get alerts when fasting starts and stops.
 - 📅 **Daily Fasting Reminder**
 
-https://github.com/user-attachments/assets/29a1d5af-7bcf-47e5-b305-5c92e659c4e7
 
-
+https://github.com/user-attachments/assets/03ef6ca2-0d5d-46d0-aea6-8e89844faafa
 
 
 
