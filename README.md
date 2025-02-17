@@ -51,8 +51,8 @@ https://github.com/user-attachments/assets/29a1d5af-7bcf-47e5-b305-5c92e659c4e7
 
 ## 👨‍💻 Developer
 - **Created by**: Halenur Yeşilova
-- **GitHub**: [Your GitHub Profile](https://github.com/HaleYesilova)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/ https://www.linkedin.com/in/halenuryesilova/)
+- **GitHub**: [https://github.com/HaleYesilova)
+- **LinkedIn**: [https://www.linkedin.com/in/halenuryesilova/)
 
 ## 📝 License
 This project is licensed under the **MIT License**.
